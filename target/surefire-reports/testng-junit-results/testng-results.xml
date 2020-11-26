@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="446" started-at="2020-11-13T22:56:18 IST" finished-at="2020-11-13T22:56:18 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="446" started-at="2020-11-13T22:56:18 IST" finished-at="2020-11-13T22:56:18 IST">
+      <class name="qaclickacedemy.mavenJava.AppiumTest">
+        <test-method status="PASS" signature="iosApp()" name="iosApp" duration-ms="1" started-at="2020-11-13T22:56:18 IST" finished-at="2020-11-13T22:56:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosApp -->
+        <test-method status="PASS" signature="nativeApp()" name="nativeApp" duration-ms="2" started-at="2020-11-13T22:56:18 IST" finished-at="2020-11-13T22:56:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeApp -->
+      </class> <!-- qaclickacedemy.mavenJava.AppiumTest -->
+      <class name="qaclickacedemy.mavenJava.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()" name="shouldAnswerWithTrue" duration-ms="1" started-at="2020-11-13T22:56:18 IST" finished-at="2020-11-13T22:56:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- qaclickacedemy.mavenJava.AppTest -->
+      <class name="qaclickacedemy.mavenJava.APITest">
+        <test-method status="PASS" signature="deleteTwitter()" name="deleteTwitter" duration-ms="134" started-at="2020-11-13T22:56:18 IST" finished-at="2020-11-13T22:56:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()" name="postJira" duration-ms="134" started-at="2020-11-13T22:56:18 IST" finished-at="2020-11-13T22:56:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- qaclickacedemy.mavenJava.APITest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

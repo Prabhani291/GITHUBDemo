@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="76" started-at="2020-11-13T22:56:17 IST" finished-at="2020-11-13T22:56:17 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="76" started-at="2020-11-13T22:56:17 IST" finished-at="2020-11-13T22:56:17 IST">
+      <class name="qaclickacedemy.mavenJava.SeleniumTest">
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:qaclickacedemy.mavenJava.SeleniumTest@5cb9f472]" name="ElementsUI" duration-ms="7" started-at="2020-11-13T22:56:17 IST" finished-at="2020-11-13T22:56:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+        <test-method status="PASS" signature="browserAuto()[pri:0, instance:qaclickacedemy.mavenJava.SeleniumTest@5cb9f472]" name="browserAuto" duration-ms="1" started-at="2020-11-13T22:56:17 IST" finished-at="2020-11-13T22:56:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAuto -->
+      </class> <!-- qaclickacedemy.mavenJava.SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
